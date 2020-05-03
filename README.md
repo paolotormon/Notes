@@ -1,2 +1,2 @@
 # Notes-App
-simple app for not taking
+simple app for note taking
